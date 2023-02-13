@@ -1,0 +1,15 @@
+{
+    "name": "chaosannals/phpdemo",
+    "description": "phpdemo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chaosannals",
+            "email": "chaosannals@outlook.com"
+        }
+    ],
+    "require": {
+        "manticoresoftware/manticoresearch-php": "^2.3"
+    }
+}
